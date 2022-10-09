@@ -1,4 +1,4 @@
-# Vaccine-Hesitancy-Using-Machine-learning-Learning-
+# Vaccine-Hesitancy-Using-Machine-learning
 
 COVID-19 pandemic caused lots of losses, both
 human and economic. To bring the amount of COVID cases
